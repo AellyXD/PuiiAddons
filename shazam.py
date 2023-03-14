@@ -13,7 +13,7 @@ from telethon.errors.rpcerrorlist import YouBlockedUserError
 from . import *
 
 
-@puii_cmd(pattern="findsong$")
+@puii_cmd(pattern="shazam$")
 async def _(event):
     if not event.reply_to_msg_id:
         return await event.eor("Reply to an audio message.")

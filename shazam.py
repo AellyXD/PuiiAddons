@@ -1,10 +1,8 @@
-# Ultroid Userbot
-# Made by senku
 
 """
 ✘ Commands Available
 
-• `{i}findsong <reply to song>`
+• `{i}shazam <reply to song>`
    Identify the song name
 """
 
